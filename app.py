@@ -1,6 +1,5 @@
 from flask import Blueprint
 from flask_restful import Api
-from resources.Hello import Hello
 from resources.Category import CategoryResource
 from resources.Comment import CommentResource
 
